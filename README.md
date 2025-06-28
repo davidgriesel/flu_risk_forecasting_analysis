@@ -23,7 +23,7 @@ This analysis uses publicly available data sourced from the Centers for Disease 
 - [**Population**](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) - Number of people by location, time, age, and gender.
 <br><br>
 
-## Links
+## Deliverables
 - [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <br><br>
 
