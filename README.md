@@ -7,7 +7,7 @@ A medical staffing agency that supplies temporary personnel to clinics and hospi
 
 ## Tools
 - **Excel** - Data Preparation | Analysis
-- **Tableau** - Visualisation | Forecasting | Storytelling
+- **Tableau** - Forecasting | Visualisation | Storytelling
 <br><br>
 
 ## Process
