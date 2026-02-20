@@ -1,4 +1,4 @@
-# Flu Risk Forecasting
+# Flu Risk Forecasting Analysis
 
 ## Overview
 A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. The project analyses historical influenza and population data to identify high-risk population groups through correlation analysis between age and mortality, examine seasonal patterns to determine the start and end of flu season, and develop a state-level risk profile to forecast when, where, and how many staff would likely be required.
