@@ -33,11 +33,11 @@ Adults aged 65 and older account for the vast majority of influenza-related deat
 <table>
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/pie_deaths_age.png" ><br>
+    <img src="images/pie_deaths_age.png" ><br>
     <em>Adults aged 65 and older account for more than 60% of all influenza-related deaths — a trend that reinforces CDC classifications of this group as high risk.</em>
 </td>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/scatter_correlation.png" ><br>
+    <img src="images/scatter_correlation.png" ><br>
     <em>There is a strong positive correlation between population size and influenza-related deaths among older adults, particularly those aged 65+. This relationship weakens in younger groups, where mortality is lower and data suppression increases uncertainty.</em>
 </td>
 </tr>
@@ -50,11 +50,11 @@ Although the annual severity of influenza varied considerably, peak mortality co
 <table>
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/line_region_yearly.png" ><br>
+    <img src="images/line_region_yearly.png" ><br>
     <em>Influenza deaths rise in November, peak sharply in January, and decline through April. The South consistently reports the highest mortality, while other regions follow near-identical trends.</em>
 </td>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/bar_deaths_year.png" ><br>
+    <img src="images/bar_deaths_year.png" ><br>
     <em>The average annual death count across the period is 73,158 but varies significantly year to year with notable surges in 2014 and 2015.</em>
 </td>
 </tr>
@@ -67,21 +67,21 @@ Allocating risk based on the size of each state’s elderly population revealed 
 <table>
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/map_vulnerable.png" ><br>
+    <img src="images/map_vulnerable.png" ><br>
     <em>Geospatial view confirms that high-risk populations are not confined to the South — with large vulnerable populations in California, the Northeast, and parts of the Midwest.</em>
 </td>
 <td align="center" valign="top" width="50%">
-  <img src="visualisations/bar_risk_population.png" ><br>
+  <img src="images/bar_risk_population.png" ><br>
   <em>Population size of age group 65+ across U.S. states categorised by risk profile — high-risk states have exponentially larger elderly populations.</em>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/line_risk_yearly.png" ><br>
+    <img src="images/line_risk_yearly.png" ><br>
     <em>Plotting seasonal mortality trends using the state-level risk profile revealed that high-risk states experienced the most pronounced surges, while low-risk states exhibited more moderate fluctuations — confirming the need for more resources during peak season. </em>
     </td>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/line_risk_forecast.png" ><br>
+    <img src="images/line_risk_forecast.png" ><br>
     <em>The forecast shows sharp seasonal peaks in high-risk states, reinforcing expectations of a heavier burden in these areas. In contrast, low-risk states display minimal fluctuation, suggesting a lower anticipated need for supplementary staffing.</em>
 </td>
 </tr>
